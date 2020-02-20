@@ -38,7 +38,7 @@ The recommended OSX setup uses Homebrew.
 5. Install Qt
 
     ```sh
-    brew install qt@5.13
+    brew install qt
     ```
 
 6. Go to the Erlang installation checklist
