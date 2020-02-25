@@ -1,5 +1,7 @@
 # Tour of the Embedded BEAM Training Prep
 
+[Latest version](https://github.com/nerves-training/training_checklists/blob/master/embedded-beam-checklist.md)
+
 We'll be using a few programs in the training class. Please try to install these
 beforehand to save time.
 

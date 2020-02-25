@@ -1,5 +1,7 @@
 # Nerves Training Prep Checklist
 
+[Latest version](https://github.com/nerves-training/training_checklists/blob/master/nerves-training-checklist.md)
+
 We'll be using a few programs in the training class. Please try to install these
 before class. Here's the short version of what's needed:
 
