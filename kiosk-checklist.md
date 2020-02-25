@@ -29,10 +29,10 @@ The recommended OSX setup uses Homebrew.
     ```
 
 3. Install Homebrew from [brew.sh](https://brew.sh)
-4. Install required packages for `asdf`, Nerves, and Scenic
+4. Install required packages for `asdf`, Nerves, and Erlang
 
     ```sh
-    brew install coreutils fwup squashfs xz picocom
+    brew install coreutils automake autoconf openssl libyaml readline libtool fwup squashfs wxmac xz picocom
     ```
 
 5. Install Qt
