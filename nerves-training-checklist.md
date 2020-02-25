@@ -90,6 +90,9 @@ have to use `asdf`, but try to come close on the versions.
     asdf global erlang 22.2.6
     ```
 
+NOTE: If the `asdf install erlang` line fails and you're on OSX, try
+`ERLANG_OPENSSL_PATH="/usr/local/opt/openssl" asdf install erlang 22.2.6`
+
 3. Install Elixir 1.9.4. Elixir 1.10 won't work yet.
 
     ```sh
